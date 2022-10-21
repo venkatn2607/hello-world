@@ -31,5 +31,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning-Welcome to Valaxy</h1>
+   <h1> Poll SCM Enabled</h1>
 </form>
